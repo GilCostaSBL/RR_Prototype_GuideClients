@@ -1,0 +1,5 @@
+{
+  "name": "RR_Prototype_GuideClients",
+  "description": "A minigame where a waiter guides two clients through a pixel-art restaurant to their table, avoiding obstacles. The application calculates the shortest path and animates the characters moving along it.",
+  "requestFramePermissions": []
+}
